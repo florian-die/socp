@@ -33,7 +33,7 @@
 
 # Trace generated files
 *.eps
-trace.dat
+*.dat
 
 # Build folders
 binaries/
