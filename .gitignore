@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# Trace generated files
+*.eps
+trace.dat
+
+# Build folders
+binaries/
+build/
+extDep/
+documentation/SOCP/
