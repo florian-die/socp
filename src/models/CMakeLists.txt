@@ -13,3 +13,9 @@ endif ()
 if (BUILD_INTERCEPTOR)
 	add_subdirectory (interceptor)
 endif ()
+
+if (BUILD_OPINION_WITH_INTERACTIONS)
+	add_subdirectory (opinion_with_interactions)
+endif ()
+
+
